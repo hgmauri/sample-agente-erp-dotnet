@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Comum/Comum.csproj" />
+    <Project Path="src/Erp.Simulado/Erp.Simulado.csproj" />
+    <Project Path="src/Dados.Api/Dados.Api.csproj" />
+    <Project Path="src/Assistente.Api/Assistente.Api.csproj" />
+    <Project Path="src/Cenarios/Cenarios.csproj" />
+  </Folder>
+</Solution>
