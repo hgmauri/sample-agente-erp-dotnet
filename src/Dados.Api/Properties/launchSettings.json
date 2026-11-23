@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Dados.Api": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5400",
+      "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
+    }
+  }
+}
