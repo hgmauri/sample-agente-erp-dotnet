@@ -38,8 +38,8 @@ Erp.Simulado    :5401   tabelas cruas: TGFCAB, TGFPAR, TGFEST, TGFFIN...
 ## Como rodar
 
 ```bash
-./scripts/subir.sh            # Linux/macOS
-# ou: ./scripts/subir.ps1     # Windows
+bash scripts/subir.sh         # Linux/macOS
+# ou: pwsh scripts/subir.ps1   # Windows
 
 # em outro terminal
 dotnet run --project src/Cenarios
