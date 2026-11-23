@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Assistente.Api": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5402",
+      "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
+    }
+  }
+}
