@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Erp.Simulado": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5401",
+      "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
+    }
+  }
+}
